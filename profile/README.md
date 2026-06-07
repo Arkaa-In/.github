@@ -19,7 +19,7 @@ No trust required. No data collected. Verifiable by design.
 
 | Project | Description | Status |
 |---|---|---|
-| [Arkaa-Auth](https://github.com/Arkaa-In/arkaa-auth) | Zero-knowledge authentication — prove who you are without revealing anything else | `active` |
+| [Arkaa-Auth](https://github.com/Arkaa-In/arkaa-auth) | Zero-knowledge authentication — prove who you are without revealing anything else | `in-progress` |
 
 ## Philosophy
 
